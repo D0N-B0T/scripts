@@ -1,2 +1,3 @@
-# scripts
-Scripts i use for bugbounty
+# Scripts i use while recon.
+
+
