@@ -7,4 +7,4 @@ if [ -z "$1" ]; then
 else
         echo $1 | gau -subs | concurl -c 20 -- -s -L -o /dev/null -k -w '%{http_code},%{size_download}'
 fi
-#credits jadix
+#credits jhaddix
