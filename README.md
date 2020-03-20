@@ -11,3 +11,6 @@
 
 
 [covidchile.sh](https://github.com/kr0t3/scripts/blob/master/covidchile.sh "covidchile.sh") simple Script para ver los casos actuales en Chile de COVID-19.
+
+
+[sub.sh](https://github.com/kr0t3/sub.sh "sub.sh") Recon automation for bugbounty.
